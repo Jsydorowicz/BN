@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.io.*;
 public class Group_04_PE_06
+//test
 {
 	public static void main(String[]args) throws IOException
 	{
